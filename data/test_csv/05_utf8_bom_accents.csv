@@ -1,0 +1,3 @@
+﻿candidate_id,first_name,middle_name,last_name,city,state,specialty,npi,expected,case
+T10,michael,,pascalé,bellevue,wa,anesthesiology,1770519720,alert,Lowercase and accents
+B02,José,,Muñoz-Peña,San Juan,PR,Pediatrics,,any,Accents in an invented name

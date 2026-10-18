@@ -1,0 +1,4 @@
+candidate_id,full_name,state,npi,expected,case
+F01,"Miranda, Conrado J",CA,1073554168,probable,"full_name as 'Last, First M'"
+F02,Dr Cornelius Oleary MD,NV,1871707513,alert,full_name as 'Dr First Last MD'
+F03,Zephyrine Quarterbridge,MT,,cleared,"full_name, invented person"

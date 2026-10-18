@@ -1,0 +1,301 @@
+candidate_id,first_name,middle_name,last_name,city,state,specialty,npi
+INV-001,Delphine,,Simmons,Atlanta,GA,Surgery,1797817688
+INV-002,JERROD,N,"smith, m.d.",St Helena,CA,Pulmonology,1940557616
+INV-003,BRENDA,,Patterson,Everson,WA,Anesthesiology,1283774850
+INV-004,Michelle,Q,Miranda,Mcalpin,FL,Cardiology,1296347698
+INV-005,KANDACE,D,Kitchen,Ewing,KY,Gastroenterology,1544201461
+INV-006,Leticia,X,CHY KOA,Stringer,MS,Rheumatology,1904316349
+INV-007,ANGELA,,MURPHY,Galesburg,IL,Emergency Medicine,1952290777
+INV-008,GERSHON,O,Hepner,Poterville,CA,Surgery,1283576990
+INV-009,Nolan,,HANSEN,Elroy,WI,Surgery,
+INV-010,Jason,,WOLF,Laguna Vista,TX,Emergency Medicine,1853470424
+INV-011,Paul,T,HUYNH,Grady,AR,Obstetrics & Gynecology,1791697978
+INV-012,john,,ALEXANDER,Spring Lake,NC,Gastroenterology,1416837083
+INV-013,LOURDES,C,Boone,Joliet,IL,Anesthesiology,1483407834
+INV-014,Mar,GERRY,Plucer,Flint,MI,Osteopathy,1425247764
+INV-015,James,,Hinton,Roaring Brook Townsh,PA,Dermatology,1741837102
+INV-016,Ñancy,,Cole,Widen,WV,Pain Management,1164733086
+INV-017,Keith,M,Burnett,Mapleton,IA,Endocrinology,
+INV-018,Varnador,V,JOHNSON,Bluffs,IL,Surgery,1232456505
+INV-019,JOSEPH,Q,Paz,Acton,MA,Pain Management,1271001715
+INV-020,Kara,E,JACKSON,Redding,CA,Pediatrics,1283709506
+INV-021,Gwendolyn,,HARVEY,East Detroit,MI,Psychiatry,1244602619
+INV-022,Mary,G,HAMILTON,Wells River,VT,Neurology,1051438159
+INV-023,James,,PIERCE,Burton,TX,Rheumatology,
+INV-024,Ngozi,G,AVALOS,Rock Rapids,IA,Emergency Medicine,1037526805
+INV-025,CHARLES,H,Bagley,Ozawkie,KS,Endocrinology,1689832982
+INV-026,Lynn,Z,Valle,Pembroke Plains,FL,Neurology,1316777921
+INV-027,James,K,MADDEN,Huntington Beach,CA,Psychiatry,1027752162
+INV-028,Craig,,HERNANDEZ,Perrysburg,NY,Anesthesiology,1952920742
+INV-029,V.,A,Esposito,Madison,NJ,Pulmonology,
+INV-030,SARAH,,Thomas,Hockessin,DE,Pulmonology,1151780133
+INV-031,JENNIFER,L,Haley,Effingham,IL,Pulmonology,1064248296
+INV-032,richard,N,ROBISON,Neosho Falls,KS,Dermatology,1314395461
+INV-033,Joseph,F,Le,Highwood,IL,Anesthesiology,1539598932
+INV-034,TRENTON,,Vance,Kaibito,AZ,Osteopathy,1036427057
+INV-035,james,F,CROWDER,Forty Fort,PA,Pulmonology,1030232570
+INV-036,Louis,,SJITH,Campbellsville,KY,Family Medicine,
+INV-037,Amazair,,Mcallister,Greenwood,MS,Pain Management,1844419303
+INV-038,PAUL,,Pennington,Centennial,CA,Neurology,
+INV-039,Armenui,,DAVIS,Orrtanna,PA,Obstetrics & Gynecology,1149654079
+INV-040,Maurice,,Woods,Surfside Beach,SC,Surgery,1363184768
+INV-041,ROBERT,,Kincaid,Wittmann,AZ,Neurology,1151575392
+INV-042,KENNETH,,jeter,Doylestwon,PA,Oncology,1977605538
+INV-043,Oscar,,COOLEY,New London,WI,Oncology,1924108040
+INV-044,Nancy,,LIVINGSTON,Lexington Park,MD,Rheumatology,1946055183
+INV-045,Leo,B,BLOUNT,Tishomingo,OK,Cardiology,1817216839
+INV-046,stuart,M,Gonzalez,Canada,KY,Dermatology,1265170336
+INV-047,Kim,,Johnson,Whitesburg,GA,Dermatology,
+INV-048,Renato,T,Cannon,Ashland,AL,Neurology,1304054187
+INV-049,Jeremy,L,Henry,Hopewell,VA,Gastroenterology,
+INV-050,Theresa,L,PATTERSON,Mchenry,IL,Gastroenterology,1865846195
+INV-051,ANGELINA,,Iverson,Port Gibson,MS,Family Medicine,1393518635
+INV-052,Megan,X,Nguyen,Ignacio,CO,Internal Medicine,1717112433
+INV-053,Kiimberly,K,Austin,Miami Gardens,FL,Dermatology,1761138759
+INV-054,Sharmane,,Ahmed,La Plata,MO,Pediatrics,
+INV-055,JARED,,Rodriguez,Mansfield,MA,Psychiatry,1045765688
+INV-056,Chinenye,,chansky,Newfield,NJ,Oncology,1811136179
+INV-057,TARA,W,TOWNSEND,Readstown,WI,Oncology,1847238733
+INV-058,HELEN,L,Hernandez,Pinehurst,NC,Obstetrics & Gynecology,1656100662
+INV-059,Wayne,I,Spencer,Riddle,OR,Surgery,
+INV-060,Lorenza,,Hunt,Ely,NV,Rheumatology,1110203830
+INV-061,Robert,,Garay,Lehighton,PA,Rheumatology,1807613420
+INV-062,JOSE,,Maldonado,Stokesdale,NC,Family Medicine,
+INV-063,Joseph,I,SMITH,Westchester,NY,Rheumatology,
+INV-064,Richard,Y,SIMON,Maryville,WA,Anesthesiology,1515474284
+INV-065,Lois,,HALL,Encinitas,CA,Surgery,
+INV-066,ANGELICK,,hart,Highland Heights,OH,Emergency Medicine,
+INV-067,Lissyamma,Z,mendez,Cortland,NY,Psychiatry,1232794744
+INV-068,evelyn,,HOLMAN,Tecumseh,MI,Emergency Medicine,
+INV-069,DEBRA,A,Barnes,Grayson,GA,Osteopathy,1760028220
+INV-070,John,U,Castro,Redkey,IN,Surgery,1733745926
+INV-071,Valerie,,Strickland,Ashland,VA,Pediatrics,1733697951
+INV-072,Jannis,G,PALMER,Irvine,PA,Endocrinology,1700223869
+INV-073,Tony,V,Scalici,Trafford,AL,Osteopathy,1735486439
+INV-074,JOHN,,JOHNSON,Siletz,OR,Neurology,1949238998
+INV-075,Ashley,,SHIN,Peoria Hgts,IL,Gastroenterology,1378276082
+INV-076,Lee,D,Newman,Venice,CA,Family Medicine,
+INV-077,Michelle,,HARRELL,Somerdale,NJ,Obstetrics & Gynecology,1262492170
+INV-078,Dr. Q.,L,"mabry, m.d.",Marshall,MI,Emergency Medicine,1045414659
+INV-079,BEN,,SANFORD-PETRELL,Starkville,MS,Rheumatology,1629042304
+INV-080,J,,Gotham,Harper Woods,MI,Anesthesiology,1010798193
+INV-081,Dennis,W,Jennings,Rosemead,CA,Family Medicine,1023209306
+INV-082,Sherry,G,Crouse,Redding,CA,Cardiology,1283266975
+INV-083,Perla,,SERRANO,Coto Laurel,PR,Pain Management,1855756605
+INV-084,THEODORE,I,Sampson,Windsor On N93 4A2,XX,Anesthesiology,1452225043
+INV-085,Beverly,,robertson,Ortonville,MN,Pulmonology,1256721878
+INV-086,Mary,,MARTINEZ,Portsmouth,OH,Osteopathy,1278206244
+INV-087,Luzelly,,Pfeifer,Taichung Taiwan,XX,Osteopathy,1121430490
+INV-088,SAM,,HARRIS,Greenwood,MS,Cardiology,
+INV-089,Marcial,Q,Richardson,Spartanburg,SC,Cardiology,
+INV-090,Billy,J,fair,Sullivan,IN,Pulmonology,1596485268
+INV-091,Celeste,Y,Lucas,Narberth,PA,Pain Management,1637673785
+INV-092,Elida,,AYALA,Raymond,MN,Psychiatry,1067090727
+INV-093,TINA,,ODELL,La Crescenta,CA,Anesthesiology,1540156721
+INV-094,Lorraine,Y,PRICE,Sulphur,LA,Family Medicine,1412943214
+INV-095,Laura,B,Santos,Berry,AL,Family Medicine,
+INV-096,ROBERT,,CAMPBELL,Colchester,VT,Endocrinology,1877132744
+INV-097,Tami,W,Estes,Wilcox,AZ,Neurology,1082359534
+INV-098,Matt,,GANNZ,Wasco State Prison,CA,Family Medicine,
+INV-099,MURRAY,G,Pham,Bruneau,ID,Rheumatology,1302250215
+INV-100,Deborah,,Ramirez,Woodland Park,NJ,Internal Medicine,
+INV-101,DELONG,,Karis,Shelley,ID,Pain Management,1768045717
+INV-102,Antonio,C,Villarta,Fort Wayne,IN,Family Medicine,
+INV-103,CANDACE,R,NESBITT,Oakdale,NY,Neurology,
+INV-104,Sandra,,Nicholas,Jacksonville Beach,FL,Pediatrics,1320765364
+INV-105,Árleen,K,difatta,Somerset,NJ,Internal Medicine,1945028316
+INV-106,Michelle,Q,Park,North Miami,FL,Endocrinology,1418003499
+INV-107,hoi,I,Matthews,Ripley,MS,Pulmonology,1728285723
+INV-108,Gerald,X,Guevara,Deep River,CT,Cardiology,1090862773
+INV-109,Robert,J,Moffat-Burtch,Longmont,CO,Internal Medicine,1235277104
+INV-110,William,B,JONES,Martin,OH,Osteopathy,1778545791
+INV-111,Florentina,Z,mayko,King Of Prussia,PA,Neurology,1994398286
+INV-112,Vickie,,Morrow,Mariette,PA,Pulmonology,1521899033
+INV-113,KELLY,F,Stewart,Honaker,VA,Pediatrics,1030494173
+INV-114,Stacy,R,Frey,Pascoag,RI,Internal Medicine,1742061766
+INV-115,Yuliana,,Greer,Mccalla,AL,Gastroenterology,1887853162
+INV-116,Calvin,H,hooker,Bern,KS,Gastroenterology,1872045331
+INV-117,Susan,,Martinez,East Helena,MT,Oncology,1594893549
+INV-118,Michael,G,Peterson,Ft Dix,NJ,Emergency Medicine,1691804418
+INV-119,Shantayne,,Williams,Ft Washakie,WY,Emergency Medicine,1568306866
+INV-120,Tania,,Little,Strunk,KY,Family Medicine,1153791017
+INV-121,Jan,,Stevenson,Lexinigton,OK,Surgery,1077091317
+INV-122,Michael,Y,Jackson,Millington,TN,Anesthesiology,1449541495
+INV-123,Kim,,Le,Trumbull,CT,Emergency Medicine,1920404918
+INV-124,Romie,G,COLLINS,Woodbridge,NY,Surgery,
+INV-125,Joyce,P,Roe,Norton,OH,Surgery,
+INV-126,James,,Eper,Erie,PA,Osteopathy,
+INV-127,Sherry,V,Bridges,Laurel Springs,NC,Endocrinology,1285476677
+INV-128,STEPHEN,,Ortiz,Marengo,IN,Oncology,1891776034
+INV-129,Garrett,,Olson,Hyde Park,NY,Family Medicine,1112500653
+INV-130,Dr. James,A,Lincoln-Sentmanat Jr.,Rochester,NY,Obstetrics & Gynecology,
+INV-131,Susan,,HOBBS,Otterbein,IN,Pulmonology,1195961010
+INV-132,ROBERT,,OBRIEN,Berlin,MD,Surgery,
+INV-133,Danielle,,Braswell,Ferryville,WI,Pain Management,1417659014
+INV-134,LUCIO,Q,Schultz,Carle Place,NY,Emergency Medicine,1304652390
+INV-135,Tamy,B,cunningham,Hauser,ID,Psychiatry,1066817922
+INV-136,Janet,,TUCKER,Yorktown,PA,Obstetrics & Gynecology,1506021331
+INV-137,AARON,P,Hurowitz,Chattanooga,TN,Osteopathy,1697804385
+INV-138,Laurieann,T,vu,Orwell Township,OH,Psychiatry,1363549264
+INV-139,Florence,U,Riddle,Springville,UT,Osteopathy,1481013315
+INV-140,Mary,,Nelson,Tyner,KY,Pain Management,1535813421
+INV-141,DONNA,W,Long,Wadsworth,OH,Internal Medicine,1837547415
+INV-142,GREG,,Decker,Aurora,IL,Anesthesiology,1633928510
+INV-143,Minutella,,j.,Philadelphia,PA,Osteopathy,
+INV-144,Vitaliy,O,Moore,Coxsackie,NY,Dermatology,
+INV-145,alice,,Atkins,Cheswick,PA,Pediatrics,1366304461
+INV-146,DANIELLE,U,thompson,Chaparral,NM,Pain Management,1526058188
+INV-147,DAKILA,,Prater,Crane Hill,AL,Rheumatology,1958359027
+INV-148,Cindy,,CAMPOS,Sherman Oaks,CA,Pain Management,
+INV-149,Abayo,,Ali,Cullowhee,NC,Surgery,1716715529
+INV-150,Hae,,Miller,Roseville,MI,Psychiatry,1190637711
+INV-151,SUNDREE,,Hernandez,Mcminnville,TN,Pulmonology,1001212066
+INV-152,Robert,J,Monshaw,Mooers,NY,Obstetrics & Gynecology,1129837252
+INV-153,Julie,,Mayfield,West Columia,SC,Pain Management,1083579996
+INV-154,Zeynab,P,ORTIZ,Nebo,NC,Osteopathy,1112083114
+INV-155,KAMI,F,Purvis,Quincy,CA,Osteopathy,1152029944
+INV-156,Lindsey,U,LEMON,Clarion,IA,Gastroenterology,1747260012
+INV-157,James,P,Wood,Pecos,TX,Rheumatology,1783184531
+INV-158,Renato,,Ticzon-Mccargish,Watertown,NY,Internal Medicine,
+INV-159,SARAH,Y,Villegas,Salyer,CA,Oncology,1345493529
+INV-160,robert,V,Smith,San Saba,TX,Pulmonology,1845433839
+INV-161,BETHANY,J,Flores,Lewisville,NC,Rheumatology,
+INV-162,Jessica,,Khan,Cotopaxi,CO,Dermatology,1351610895
+INV-163,Leslie,,Thacker,Cabins,WV,Endocrinology,1040618725
+INV-164,JUAN,I,Hayden,Bridgehampton,NY,Internal Medicine,1122808569
+INV-165,DOUGLAS,,Munoz,Mount Royal,NJ,Dermatology,
+INV-166,KEITH,R,norwood,Cranbury,NJ,Anesthesiology,1464289429
+INV-167,Francisco,U,Young,Gordo,AL,Pulmonology,
+INV-168,JENNIFER,H,LAI,Whitefield,ME,Gastroenterology,1282909208
+INV-169,Tina,,ROJAS,West Columbia,SC,Gastroenterology,1324515576
+INV-170,SHRUM,D,Kelly,Westover,MD,Oncology,
+INV-171,Tami,,Meyer,Roosevelt,NJ,Pediatrics,1801564644
+INV-172,EDWARD,,lutz,East Hartford,CT,Pulmonology,1441047516
+INV-173,avian,,kidd,Greenbrier,AR,Pulmonology,1276709409
+INV-174,Ram,,Christie,Atwater,CA,Pediatrics,1574415866
+INV-175,Christopher,S,Ramirez,Clarks Summit,PA,Surgery,1641035170
+INV-176,Mario,,GARCIA,Corinth,TX,Anesthesiology,
+INV-177,Leigh,,Cooper,Channing,TX,Osteopathy,1099379749
+INV-178,carola,C,SMITH,Dormont,PA,Surgery,1174055458
+INV-179,Augusto,,Lizarazo,Boca Raton,FL,Family Medicine,1106460013
+INV-180,Peter,A,LODEWICK,Fulton,AL,Family Medicine,1245279645
+INV-181,michael,,mavroidis-mack,Worchester,MA,Psychiatry,1258983194
+INV-182,Terri,,Solis,Dewey,OK,Endocrinology,1903074899
+INV-183,Muhammad,,Mannan-Lauersen,Woodstock,NY,Pain Management,1846978809
+INV-184,Tammy,D,Kaiser,Walterboro,SC,Pulmonology,1561059148
+INV-185,Loretta,Y,Martinez,Burnsville,NC,Endocrinology,1743890327
+INV-186,Halley,C,Ward,Buffalo,WY,Gastroenterology,
+INV-187,Chun,SUNG,Kye,Short Hills,NJ,Internal Medicine,1356371819
+INV-188,Josefina,,Gutierrez,Dyersburg,TN,Rheumatology,1654268173
+INV-189,Rachel,,Estep,Bassett,CA,Anesthesiology,1412634789
+INV-190,aristides,,Deguzman,Canada,XX,Osteopathy,1273197967
+INV-191,Solveig,,Lee,Osceola,WI,Psychiatry,
+INV-192,MILTON,M,Childress,Raynham,MA,Neurology,1596505654
+INV-193,NANCY,E,Moore,Riverdale,NY,Psychiatry,1811462032
+INV-194,felicia,A,Dorsey,Helena,AL,Pain Management,1845381059
+INV-195,Jeannette,Z,HURST,Ash Grove,MO,Pulmonology,1040542468
+INV-196,KELLEY,S,Powell,Spruce Pine,AL,Pain Management,1736674714
+INV-197,Sheran,,yeates,Oakland,NJ,Family Medicine,1854690598
+INV-198,Robert,,turner,Redondo Beach,CA,Anesthesiology,1521706564
+INV-199,ELSIE,X,SMITH,Olyphant,PA,Internal Medicine,1186953606
+INV-200,John,,Garcia,Spring Hill,TN,Emergency Medicine,
+INV-201,LAURA,,Moses,Cody,WY,Psychiatry,1349368636
+INV-202,SAMIR,J,Wood,Niles,OH,Surgery,
+INV-203,Mary,V,vaughan,Grandview,MO,Oncology,1857104249
+INV-204,Leeanna,I,Campos,Carmi,IL,Cardiology,1403201917
+INV-205,Raheem,Z,SCHULTZ,Chatanooga,TN,Family Medicine,1192275535
+INV-206,Joeneisha,R,Ramos,Windsor,VT,Family Medicine,1125157897
+INV-207,Arthur,,smith,Hurst,TX,Cardiology,1323196707
+INV-208,JOBETH,N,Shaw,North Las Vegas,NV,Dermatology,1333879268
+INV-209,johnetta,,Ramirez,Hermitage,AR,Oncology,1226549089
+INV-210,Joseph,H,Vickers,Moore Hill,IN,Cardiology,1202292002
+INV-211,Paul,J,ELMER,Slaughters,KY,Emergency Medicine,1765237355
+INV-212,TIMOTHY,K,Castle,Granite,OK,Emergency Medicine,1266075689
+INV-213,Constance,,ROBERTSON,Eldon,MO,Pediatrics,1712746221
+INV-214,Davit,,Doyle,La Farge,WI,Emergency Medicine,1191127993
+INV-215,RALSA,O,Simpson,Spruce Pine,AL,Gastroenterology,1666971697
+INV-216,RENALDO,Z,DE LOS HEROS,Sante Fe,NM,Psychiatry,1203817805
+INV-217,BENTURA,P,WONG,Benton City,WA,Family Medicine,1362703046
+INV-218,Matsumura,N,KENNETH,Berkeley,CA,Oncology,1871610832
+INV-219,David,,krieg,Saint Albans Bay,VT,Osteopathy,1889575552
+INV-220,Wayne,W,Williamson,Proctor,OK,Osteopathy,1053443002
+INV-221,JACQUELINE,,Salazar,Springhill,LA,Emergency Medicine,1039622098
+INV-222,Dekeshia,,king,Elk City,OK,Endocrinology,1337557897
+INV-223,RIGOBERTO,,Jones,Denmark,XX,Emergency Medicine,1761253982
+INV-224,Susan,,Allred,Closter,NJ,Family Medicine,1925657085
+INV-225,MICHAEL,L,HINTON,Brownwood,TX,Pediatrics,1705336562
+INV-226,MARDEE,E,RIGGS,Richwood,TX,Oncology,1861625896
+INV-227,Amy,H,Reed,Southgate,CA,Emergency Medicine,1431041726
+INV-228,JUDY,,Bunch,Mount Vernon,NY,Cardiology,1832717451
+INV-229,Virgil,,YATES,Pioneer,TN,Internal Medicine,
+INV-230,David,Q,Hartman,Tybee Island,GA,Pain Management,1209842640
+INV-231,Nicheia,,HARGROVE,Pebbles,OH,Endocrinology,
+INV-232,Guevn,,UZUN,Washington,DC,Endocrinology,1639848864
+INV-233,RONALD,H,RUTHERFORD,Idabel,OK,Endocrinology,1304887781
+INV-234,Joseph,X,JARVIS,Auburn,MI,Pediatrics,1045293131
+INV-235,STANLEY,B,Prince,Cleveland,TN,Internal Medicine,1200700917
+INV-236,Gloria,A,Milner,Converse,TX,Rheumatology,1013914123
+INV-237,Nia,W,Elder,Carol Stream,IL,Surgery,1698143317
+INV-238,Antonio,,Perez,Killen,AL,Surgery,1117744651
+INV-239,Lilit,D,Baltaian,Morro Bay,CA,Family Medicine,1210761770
+INV-240,Craig,,Zhan Md,Seagoville,TX,Family Medicine,
+INV-241,Rudolfo,,Zaidman,Hazelwood,MO,Family Medicine,
+INV-242,JERRY,T,Melton,St Petersburg Bch,FL,Endocrinology,1507572162
+INV-243,Melanie,,Alfaro,Franklin,NC,Emergency Medicine,1618634056
+INV-244,TRACY,B,Goodrich,Stanton,TX,Psychiatry,1977057929
+INV-245,Donna,,Hernandez,Kenton,TN,Emergency Medicine,1378522238
+INV-246,Ivyl,W,Wells,Bryan,TX,Gastroenterology,1883755559
+INV-247,JENNIFER,J,Guidry,Kingsland,TX,Family Medicine,1755485066
+INV-248,RONALD,,wilson,Worchester,MA,Obstetrics & Gynecology,
+INV-249,WAYNE,G,Beatty,Mount Clemens,MI,Endocrinology,
+INV-250,Laura,,THOMAS,Chevy Chase,MD,Pain Management,1727785932
+INV-251,Paul,U,Lockwood,Casey,IL,Rheumatology,1471393605
+INV-252,jacqueline,R,Stovall,Castleton,VT,Pain Management,1466412202
+INV-253,alan,,HARRIS,Boxwell,PA,Psychiatry,1621841554
+INV-254,James,N,Gould,Rocky Point,NY,Neurology,1711005249
+INV-255,Sherri,L,Rodriguez,Selma,TX,Emergency Medicine,1988904216
+INV-256,ANTOINE,,gallagher,Poland,OH,Pediatrics,1252196076
+INV-257,Carrie,A,Overstreet,Woolwich,ME,Osteopathy,1352478753
+INV-258,Edward,K,Meyer,Lillington,NC,Pain Management,1867282047
+INV-259,Kirkwood,JEAN,Beverly,Boron,CA,Surgery,
+INV-260,NATASHA,,Stuart,Kearney,NE,Cardiology,1687078443
+INV-261,ronald,D,Moreno,Dudley,NC,Endocrinology,1902229777
+INV-262,David,J,Byrne,Pelzer,SC,Endocrinology,1955939298
+INV-263,Tori,N,ARIAS,Russellville,KY,Cardiology,1060804193
+INV-264,Svetlana,E,RICHMOND,Gordon,GA,Pain Management,1560349602
+INV-265,Vergil,,Anderson,East Wareham,MA,Rheumatology,1679951794
+INV-266,MICHAEL,S,cannon,Saint Johns,FL,Psychiatry,
+INV-267,SHAMIZA,O,Hughes,Medway,MA,Emergency Medicine,1807826955
+INV-268,Kathy,D,Marquez,Farmville,NC,Rheumatology,1526064501
+INV-269,Kimberly,X,Brown,Farmingdale,NJ,Pain Management,
+INV-270,Santana,,JAMES,Northlake,IL,Neurology,1243143359
+INV-271,Sunday,B,COOK,Vintondale,PA,Pediatrics,1074113974
+INV-272,SUHAS,,SARDESAI,Kaunakakai,HI,Gastroenterology,
+INV-273,Fernando,,MENDEZ,Pendletoa,OR,Cardiology,
+INV-274,Sofik,Z,BUTLER,East Carbon,UT,Osteopathy,1597348124
+INV-275,Ali,S,Zadeh,Paintsville,KY,Family Medicine,
+INV-276,ALISON,F,HERNANDEZ,Villas,NJ,Osteopathy,1554053737
+INV-277,holly,,KIM,Coquitlam British Co,XX,Neurology,1957083409
+INV-278,Aurora,,Ledford,New Paltz,NY,Pediatrics,1646686316
+INV-279,vicki,G,Rush,New Prague,MN,Dermatology,1654620554
+INV-280,Stephen,,Miranda,San Augustine,TX,Osteopathy,1478394256
+INV-281,RONALD,,MAXWELL,Crystal River,FL,Pain Management,
+INV-282,patrick,T,"Ryan, M.D.",Leicester,NC,Anesthesiology,1317784864
+INV-283,Jan,J,Sturm,Manly,IA,Rheumatology,1856517883
+INV-284,Christy,W,GARDNER,North Miami,OK,Internal Medicine,1087613750
+INV-285,Lael,,Nicholas,Margate City,NJ,Obstetrics & Gynecology,1687456500
+INV-286,AMNERIS,,Blair,St Cloud,MN,Psychiatry,1893756782
+INV-287,RICHARD,M,Redman,Grosse Pt Park,MI,Rheumatology,
+INV-288,CARRIE,J,TINSLEY,Anadarko,OK,Osteopathy,1949806558
+INV-289,Mikayla,,MORIN,Fairfield,CT,Obstetrics & Gynecology,1641157763
+INV-290,Abner,,Teague,Sonora,KY,Oncology,1825070146
+INV-291,Charles,,Melendez,Perth Amboy,NJ,Obstetrics & Gynecology,1334370108
+INV-292,Rodneey,,Moret Quezada,Lake City,FL,Family Medicine,1789713311
+INV-293,larry,E,Hobdy,Columbia,LA,Dermatology,
+INV-294,PLACIK,,Branko,Hawthorne,CA,Family Medicine,
+INV-295,Debra,M,Klein,Levittown,PA,Internal Medicine,1454711112
+INV-296,jason,S,Urbina,Tenino,WA,Endocrinology,
+INV-297,maria,Z,Palazzo,Latham,NY,Neurology,1378495183
+INV-298,TERRY,S,Williams,Smithton,PA,Rheumatology,1003468420
+INV-299,Lakeshia,G,guerra,Crowder,MS,Pain Management,1271861581
+INV-300,William Hines,C,Dudley,Newton,CT,Family Medicine,1164774479

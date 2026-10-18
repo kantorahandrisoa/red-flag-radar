@@ -1,0 +1,4 @@
+candidate_id,first_name,middle_name,last_name,city,state,specialty,npi,expected,case
+Q01,Mary-Kate,,O'Brien,St. Louis,MO,"Internal Medicine, Hospitalist",,cleared,"Apostrophe, hyphen, comma inside a quoted field"
+Q02,Ana,,de la Cruz,Coeur d'Alene,ID,Cardiology,,any,"Particle surname, apostrophe in city"
+Q03,  John  ,,  Doe  , Reno , nv ,,,any,Leading/trailing spaces

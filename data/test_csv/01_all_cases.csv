@@ -1,0 +1,20 @@
+candidate_id,first_name,middle_name,last_name,city,state,specialty,npi,expected,case
+T01,Conrado,J,Miranda,Glendale,CA,Family Medicine,1073554168,probable,"Exact copy of an OIG record, same NPI"
+T02,Robert,J,Ourso,Slidell,LA,Family Medicine,,alert,"Same name, middle initial, city, state, specialty; no NPI anywhere"
+T03,Cornelius,,Oleaey,Las Vegas,NV,Family Medicine,1871707513,alert,"Typo in the last name, same NPI"
+T04,Christophar,L,Devine,Wellington,FL,Family Medicine,1477553840,alert,"Typo in the first name, same NPI"
+T05,M.,,Weissman,Peoria,AZ,Internal Medicine,1871654384,alert,First name reduced to an initial
+T06,Mendez,,Leovares,Seagoville,TX,Family Medicine,1760445936,alert,First and last names swapped
+T07,Jim,,Harvanko,Minneapolis,MN,Family Medicine,1942353974,alert,Nickname (Jim for James)
+T08,John,,Ricciardelli-Garcia,Smithtown,NY,Internal Medicine,1497729099,alert,Compound surname (married name added)
+T09,Dr. Akiva,,"Abraham, M.D. Jr.",Clifton Park,NY,Obstetrics & Gynecology,1609874742,alert,Title and suffixes around the name
+T10,michael,,pascalé,bellevue,wa,anesthesiology,1770519720,alert,Lowercase and accents
+T11,Sandrene,,Miller,Burlington,NM,Family Medicine,,any,"Same name, moved to another state, no NPI: ambiguous by nature"
+T12,Craig,H,Petrik,Boston,MA,Internal Medicine,1104332181,alert,"FDA debarment record (names only), same full name and middle initial"
+T13,Duane,T,Stillions,Burlington,WY,Family Medicine,1960013389,not_probable,"Innocent namesake: other middle initial, state, specialty and NPI"
+T14,George,,Besong,Orange City,FL,Obstetrics & Gynecology,1083863794,not_probable,Same name and place but a different NPI
+T15,John,Q,Smith,Anchorage,AK,Dermatology,1026542351,not_probable,"Very common name, no specific evidence"
+T16,Zephyrine,,Quarterbridge,Helena,MT,Neurology,1161559407,cleared,"Invented name, nothing similar on any list"
+T17,Maria,,Palazzo,Austin,TX,Oncology,,alert,"FDA record, first and last name only"
+T18,Robert,C,Davis,Safford,AZ,,,alert,"Same name, middle initial and city; specialty and NPI not provided"
+T19,Alfred,L,Ramirez,,,,1679663009,probable,Only the name and the NPI are given; NPI matches

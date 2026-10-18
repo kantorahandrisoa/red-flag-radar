@@ -1,0 +1,39 @@
+{
+  "model_version": "lgbm-20261018-0854",
+  "data_version": "fda-2026-10-17+leie-2026-10-17",
+  "features": [
+    "sim_nom",
+    "sim_prenom",
+    "initiale_ok",
+    "inversion",
+    "phonetique_ok",
+    "npi_egal",
+    "npi_manquant",
+    "etat_egal",
+    "ville_egale",
+    "specialite_ok",
+    "rarete_nom",
+    "deuxieme_prenom"
+  ],
+  "n_pairs": 199582,
+  "n_positive": 3000,
+  "seed": 7,
+  "calibration": "isotonic on 25% held-out candidates",
+  "thresholds": {
+    "probable": 0.9,
+    "review": 0.159
+  },
+  "threshold_rule": "review = max F2 on held-out training pairs (capped at 0.40); probable = calibrated probability 0.90",
+  "monotone_constraints": {
+    "sim_nom": 1,
+    "sim_prenom": 1,
+    "initiale_ok": 1,
+    "phonetique_ok": 1,
+    "npi_egal": 1,
+    "etat_egal": 1,
+    "ville_egale": 1,
+    "specialite_ok": 1,
+    "rarete_nom": 1,
+    "deuxieme_prenom": 1
+  }
+}

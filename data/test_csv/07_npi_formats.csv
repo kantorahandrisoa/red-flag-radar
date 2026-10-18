@@ -1,0 +1,6 @@
+candidate_id,first_name,middle_name,last_name,city,state,specialty,npi,expected,case
+N01,Conrado,,Miranda,,,,1073554168,probable,NPI matches
+N02,Conrado,,Miranda,,,,107-355-4168,probable,Same NPI written with dashes
+N03,Conrado,,Miranda,,,,123,any,"Invalid NPI (too short), ignored"
+N04,Conrado,,Miranda,,,,0000000000,any,"Placeholder NPI, ignored"
+N05,Conrado,,Miranda,,,,1816184959,not_probable,A different valid NPI

@@ -1,0 +1,7 @@
+.venv
+.git
+**/node_modules
+frontend/dist
+data/radar.db
+**/__pycache__
+.pytest_cache

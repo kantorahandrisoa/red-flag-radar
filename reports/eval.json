@@ -1,0 +1,655 @@
+{
+  "thresholds": {
+    "probable": 0.9,
+    "review": 0.159
+  },
+  "n_candidates": 300,
+  "truth": {
+    "clean": 230,
+    "homonym": 40,
+    "true_positive": 30
+  },
+  "models": {
+    "LightGBM (calibrated)": {
+      "recall_alert": 0.9667,
+      "recall_probable": 0.6,
+      "precision_probable": 1.0,
+      "precision_alert": 0.6744,
+      "f1_alert": 0.7945,
+      "homonyms_probable": 0,
+      "homonyms_alert": 9,
+      "clean_alert": 5,
+      "zones": {
+        "probable": 18,
+        "review": 25,
+        "cleared": 257
+      },
+      "missed": [
+        {
+          "candidate_id": "INV-036",
+          "sanction_id": "FDA-13772881B8",
+          "note": "typo",
+          "score": 0.13793103448275862
+        }
+      ],
+      "seconds_for_300": 1.73,
+      "model_version": "lgbm-20261018-0854",
+      "confusion": {
+        "true_positive": {
+          "probable": 18,
+          "review": 11,
+          "cleared": 1
+        },
+        "homonym": {
+          "probable": 0,
+          "review": 9,
+          "cleared": 31
+        },
+        "clean": {
+          "probable": 0,
+          "review": 5,
+          "cleared": 225
+        }
+      },
+      "average_precision": 0.9534
+    },
+    "Logistic regression": {
+      "recall_alert": 1.0,
+      "recall_probable": 0.6667,
+      "precision_probable": 0.9524,
+      "precision_alert": 0.5,
+      "f1_alert": 0.6667,
+      "homonyms_probable": 1,
+      "homonyms_alert": 9,
+      "clean_alert": 21,
+      "zones": {
+        "probable": 21,
+        "review": 39,
+        "cleared": 240
+      },
+      "missed": [],
+      "seconds_for_300": 1.64,
+      "model_version": "logreg-20261018-0854",
+      "confusion": {
+        "true_positive": {
+          "probable": 20,
+          "review": 10,
+          "cleared": 0
+        },
+        "homonym": {
+          "probable": 1,
+          "review": 8,
+          "cleared": 31
+        },
+        "clean": {
+          "probable": 0,
+          "review": 21,
+          "cleared": 209
+        }
+      },
+      "average_precision": 0.9319
+    },
+    "Exact name baseline": {
+      "recall_alert": 0.2333,
+      "recall_probable": 0.2333,
+      "precision_probable": 0.1167,
+      "precision_alert": 0.1167,
+      "f1_alert": 0.1556,
+      "homonyms_probable": 27,
+      "homonyms_alert": 27,
+      "clean_alert": 25,
+      "zones": {
+        "probable": 60,
+        "review": 0,
+        "cleared": 240
+      },
+      "missed": [
+        {
+          "candidate_id": "INV-014",
+          "sanction_id": "LEIE-33D8229FD5",
+          "note": "nickname+typo",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-029",
+          "sanction_id": "LEIE-8F79ED9DD7",
+          "note": "initial+nickname",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-036",
+          "sanction_id": "FDA-13772881B8",
+          "note": "typo",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-078",
+          "sanction_id": "LEIE-D9657D7667",
+          "note": "initial+title",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-079",
+          "sanction_id": "LEIE-9FDAAE70A6",
+          "note": "nickname+compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-080",
+          "sanction_id": "LEIE-9A43F58C6F",
+          "note": "initial",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-098",
+          "sanction_id": "LEIE-0F2014171C",
+          "note": "typo+nickname",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-101",
+          "sanction_id": "FDA-F8F50D26E2",
+          "note": "swap",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-109",
+          "sanction_id": "LEIE-3379088D43",
+          "note": "compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-126",
+          "sanction_id": "LEIE-CB5F4BCA4A",
+          "note": "typo",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-130",
+          "sanction_id": "LEIE-A3F2B1FF73",
+          "note": "title+compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-143",
+          "sanction_id": "LEIE-DCB3814F16",
+          "note": "swap+initial",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-158",
+          "sanction_id": "LEIE-15F5E88E97",
+          "note": "compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-170",
+          "sanction_id": "FDA-A7011D0160",
+          "note": "swap",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-181",
+          "sanction_id": "LEIE-EB811E8D02",
+          "note": "compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-183",
+          "sanction_id": "FDA-B5E8F9A5B3",
+          "note": "compound",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-187",
+          "sanction_id": "LEIE-292BF1951C",
+          "note": "swap",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-218",
+          "sanction_id": "LEIE-7F979D6159",
+          "note": "none+swap",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-240",
+          "sanction_id": "LEIE-DDEF7D93C5",
+          "note": "typo+title",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-259",
+          "sanction_id": "LEIE-0370C7D4E1",
+          "note": "nickname+swap",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-282",
+          "sanction_id": "FDA-1D7B3C7E09",
+          "note": "title",
+          "score": 1.0
+        },
+        {
+          "candidate_id": "INV-293",
+          "sanction_id": "LEIE-595CE91984",
+          "note": "nickname+none",
+          "score": 0.0
+        },
+        {
+          "candidate_id": "INV-294",
+          "sanction_id": "LEIE-A9237785B0",
+          "note": "swap",
+          "score": 0.0
+        }
+      ],
+      "confusion": {
+        "true_positive": {
+          "probable": 8,
+          "review": 0,
+          "cleared": 22
+        },
+        "homonym": {
+          "probable": 27,
+          "review": 0,
+          "cleared": 13
+        },
+        "clean": {
+          "probable": 25,
+          "review": 0,
+          "cleared": 205
+        }
+      }
+    }
+  },
+  "pr_curve": [
+    {
+      "recall": 1.0,
+      "precision": 0.1,
+      "threshold": 0.0
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.1014,
+      "threshold": 0.0001
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.1339,
+      "threshold": 0.0007
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.2655,
+      "threshold": 0.0012
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.3191,
+      "threshold": 0.0117
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.3896,
+      "threshold": 0.0833
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.4,
+      "threshold": 0.0933
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.4054,
+      "threshold": 0.0952
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.4412,
+      "threshold": 0.1
+    },
+    {
+      "recall": 1.0,
+      "precision": 0.4545,
+      "threshold": 0.1379
+    },
+    {
+      "recall": 0.9667,
+      "precision": 0.5,
+      "threshold": 0.1399
+    },
+    {
+      "recall": 0.9667,
+      "precision": 0.5088,
+      "threshold": 0.1585
+    },
+    {
+      "recall": 0.9667,
+      "precision": 0.6744,
+      "threshold": 0.46
+    },
+    {
+      "recall": 0.9667,
+      "precision": 0.7632,
+      "threshold": 0.5526
+    },
+    {
+      "recall": 0.9667,
+      "precision": 0.8056,
+      "threshold": 0.6905
+    },
+    {
+      "recall": 0.9333,
+      "precision": 0.8235,
+      "threshold": 0.7468
+    },
+    {
+      "recall": 0.9,
+      "precision": 0.9,
+      "threshold": 0.7586
+    },
+    {
+      "recall": 0.9,
+      "precision": 0.931,
+      "threshold": 0.8182
+    },
+    {
+      "recall": 0.6667,
+      "precision": 1.0,
+      "threshold": 0.85
+    },
+    {
+      "recall": 0.6,
+      "precision": 1.0,
+      "threshold": 0.9516
+    },
+    {
+      "recall": 0.5,
+      "precision": 1.0,
+      "threshold": 0.9655
+    },
+    {
+      "recall": 0.4667,
+      "precision": 1.0,
+      "threshold": 0.9869
+    },
+    {
+      "recall": 0.1,
+      "precision": 1.0,
+      "threshold": 1.0
+    }
+  ],
+  "pr_curves": {
+    "LightGBM (calibrated)": {
+      "ap": 0.9534,
+      "points": [
+        {
+          "recall": 1.0,
+          "precision": 0.1,
+          "threshold": 0.0
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.1014,
+          "threshold": 0.0001
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.1339,
+          "threshold": 0.0007
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.2655,
+          "threshold": 0.0012
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.3191,
+          "threshold": 0.0117
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.3896,
+          "threshold": 0.0833
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.4,
+          "threshold": 0.0933
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.4054,
+          "threshold": 0.0952
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.4412,
+          "threshold": 0.1
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.4545,
+          "threshold": 0.1379
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.5,
+          "threshold": 0.1399
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.5088,
+          "threshold": 0.1585
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.6744,
+          "threshold": 0.46
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.7632,
+          "threshold": 0.5526
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.8056,
+          "threshold": 0.6905
+        },
+        {
+          "recall": 0.9333,
+          "precision": 0.8235,
+          "threshold": 0.7468
+        },
+        {
+          "recall": 0.9,
+          "precision": 0.9,
+          "threshold": 0.7586
+        },
+        {
+          "recall": 0.9,
+          "precision": 0.931,
+          "threshold": 0.8182
+        },
+        {
+          "recall": 0.6667,
+          "precision": 1.0,
+          "threshold": 0.85
+        },
+        {
+          "recall": 0.6,
+          "precision": 1.0,
+          "threshold": 0.9516
+        },
+        {
+          "recall": 0.5,
+          "precision": 1.0,
+          "threshold": 0.9655
+        },
+        {
+          "recall": 0.4667,
+          "precision": 1.0,
+          "threshold": 0.9869
+        },
+        {
+          "recall": 0.1,
+          "precision": 1.0,
+          "threshold": 1.0
+        }
+      ]
+    },
+    "Logistic regression": {
+      "ap": 0.9319,
+      "points": [
+        {
+          "recall": 1.0,
+          "precision": 0.1,
+          "threshold": 0.0
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.1003,
+          "threshold": 0.0001
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.1124,
+          "threshold": 0.0003
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.1887,
+          "threshold": 0.0039
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.2439,
+          "threshold": 0.0088
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.2703,
+          "threshold": 0.0182
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.3704,
+          "threshold": 0.0526
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.375,
+          "threshold": 0.069
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.411,
+          "threshold": 0.1371
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.4615,
+          "threshold": 0.1848
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.5,
+          "threshold": 0.1975
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.5085,
+          "threshold": 0.2049
+        },
+        {
+          "recall": 1.0,
+          "precision": 0.5172,
+          "threshold": 0.2059
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.617,
+          "threshold": 0.4167
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.6744,
+          "threshold": 0.5
+        },
+        {
+          "recall": 0.9667,
+          "precision": 0.8056,
+          "threshold": 0.6733
+        },
+        {
+          "recall": 0.9333,
+          "precision": 0.8235,
+          "threshold": 0.7222
+        },
+        {
+          "recall": 0.9,
+          "precision": 0.8438,
+          "threshold": 0.8319
+        },
+        {
+          "recall": 0.6667,
+          "precision": 0.9524,
+          "threshold": 0.9302
+        },
+        {
+          "recall": 0.6,
+          "precision": 1.0,
+          "threshold": 0.932
+        },
+        {
+          "recall": 0.5667,
+          "precision": 1.0,
+          "threshold": 0.9497
+        },
+        {
+          "recall": 0.5333,
+          "precision": 1.0,
+          "threshold": 0.9512
+        },
+        {
+          "recall": 0.5,
+          "precision": 1.0,
+          "threshold": 0.9846
+        },
+        {
+          "recall": 0.1333,
+          "precision": 1.0,
+          "threshold": 1.0
+        }
+      ]
+    }
+  },
+  "robustness": [
+    {
+      "seed": 2027,
+      "recall_alert": 0.9667,
+      "precision_probable": 0.9545,
+      "homonyms_probable": 0,
+      "homonyms_alert": 7,
+      "clean_alert": 5
+    },
+    {
+      "seed": 2028,
+      "recall_alert": 1.0,
+      "precision_probable": 1.0,
+      "homonyms_probable": 0,
+      "homonyms_alert": 9,
+      "clean_alert": 3
+    },
+    {
+      "seed": 2029,
+      "recall_alert": 1.0,
+      "precision_probable": 1.0,
+      "homonyms_probable": 0,
+      "homonyms_alert": 6,
+      "clean_alert": 4
+    }
+  ]
+}

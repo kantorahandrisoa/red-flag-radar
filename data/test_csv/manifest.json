@@ -1,0 +1,81 @@
+{
+  "01_all_cases.csv": {
+    "status": 200,
+    "rows": 19,
+    "check_rows": true
+  },
+  "02_full_name_only.csv": {
+    "status": 200,
+    "rows": 3,
+    "check_rows": true
+  },
+  "03_names_only.csv": {
+    "status": 200,
+    "rows": 3,
+    "check_rows": false,
+    "note": "Only names: scores are lower, nothing to confirm identity"
+  },
+  "04_messy_headers.csv": {
+    "status": 200,
+    "rows": 2,
+    "check_rows": false,
+    "note": "Header case/spaces normalized; unknown columns ignored"
+  },
+  "05_utf8_bom_accents.csv": {
+    "status": 200,
+    "rows": 2,
+    "check_rows": false
+  },
+  "06_missing_values.csv": {
+    "status": 200,
+    "rows": 4,
+    "check_rows": false
+  },
+  "07_npi_formats.csv": {
+    "status": 200,
+    "rows": 5,
+    "check_rows": true
+  },
+  "08_quotes_and_punctuation.csv": {
+    "status": 200,
+    "rows": 3,
+    "check_rows": false
+  },
+  "09_csv_injection.csv": {
+    "status": 200,
+    "rows": 2,
+    "check_rows": false,
+    "check_export_safe": true
+  },
+  "10_limit_5000_rows.csv": {
+    "status": 200,
+    "rows": 5000,
+    "check_rows": false,
+    "max_seconds": 60
+  },
+  "err_01_no_name_columns.csv": {
+    "status": 422,
+    "detail": "first_name and last_name"
+  },
+  "err_02_header_only.csv": {
+    "status": 422,
+    "detail": "no rows"
+  },
+  "err_03_too_many_rows.csv": {
+    "status": 422,
+    "detail": "Too many rows"
+  },
+  "err_04_latin1_encoding.csv": {
+    "status": 422,
+    "detail": "UTF-8"
+  },
+  "err_05_not_a_csv.csv": {
+    "status": 422
+  },
+  "err_06_empty_file.csv": {
+    "status": 422
+  },
+  "err_07_too_large.csv": {
+    "status": 413
+  }
+}

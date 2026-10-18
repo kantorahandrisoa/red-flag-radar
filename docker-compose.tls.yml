@@ -1,0 +1,9 @@
+# Optional: also serve HTTPS on 443 behind Cloudflare (SSL mode "Full").
+#   docker compose -f docker-compose.yml -f docker-compose.tls.yml up -d
+services:
+  web:
+    ports:
+      - "443:443"
+    volumes:
+      - ./deploy/nginx-tls.conf:/etc/nginx/conf.d/tls.conf:ro
+      - ./deploy/certs:/etc/nginx/certs:ro

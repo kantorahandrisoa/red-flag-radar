@@ -1,0 +1,4 @@
+candidate_id,first_name,last_name,expected,case
+T05,M.,Weissman,alert,First name reduced to an initial
+T06,Mendez,Leovares,alert,First and last names swapped
+T16,Zephyrine,Quarterbridge,cleared,"Invented name, nothing similar on any list"

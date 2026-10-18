@@ -1,0 +1,301 @@
+candidate_id,sanction_id,kind,note
+INV-001,,clean,
+INV-002,FDA-31F4EB6491,true_positive,nickname+title
+INV-003,,clean,
+INV-004,,clean,
+INV-005,,clean,
+INV-006,,homonym,shares name with LEIE-05363718C9
+INV-007,,clean,
+INV-008,,homonym,shares name with LEIE-7443874626
+INV-009,,clean,
+INV-010,,clean,
+INV-011,,homonym,shares name with LEIE-3A00E1F016
+INV-012,,clean,
+INV-013,,clean,
+INV-014,LEIE-33D8229FD5,true_positive,nickname+typo
+INV-015,,clean,
+INV-016,,clean,
+INV-017,,clean,
+INV-018,,clean,
+INV-019,,clean,
+INV-020,,clean,
+INV-021,,clean,
+INV-022,,clean,
+INV-023,,clean,
+INV-024,,clean,
+INV-025,,homonym,shares name with LEIE-59344299DB
+INV-026,,clean,
+INV-027,,clean,
+INV-028,,clean,
+INV-029,LEIE-8F79ED9DD7,true_positive,initial+nickname
+INV-030,,clean,
+INV-031,,clean,
+INV-032,,clean,
+INV-033,,clean,
+INV-034,,clean,
+INV-035,,clean,
+INV-036,FDA-13772881B8,true_positive,typo
+INV-037,,homonym,shares name with LEIE-0970659CB8
+INV-038,,clean,
+INV-039,,clean,
+INV-040,,clean,
+INV-041,,clean,
+INV-042,,clean,
+INV-043,,clean,
+INV-044,,clean,
+INV-045,,clean,
+INV-046,,clean,
+INV-047,,clean,
+INV-048,,clean,
+INV-049,,clean,
+INV-050,,clean,
+INV-051,,clean,
+INV-052,,clean,
+INV-053,,homonym,shares name with LEIE-6A2898C41D
+INV-054,,homonym,shares name with LEIE-29C6544E81
+INV-055,,clean,
+INV-056,,homonym,shares name with LEIE-8483DD2ECE
+INV-057,,clean,
+INV-058,,clean,
+INV-059,,homonym,shares name with FDA-8C8530A122
+INV-060,,clean,
+INV-061,,clean,
+INV-062,,homonym,shares name with LEIE-C3CB75C179
+INV-063,,clean,
+INV-064,,homonym,shares name with FDA-4780C57748
+INV-065,,clean,
+INV-066,,clean,
+INV-067,,clean,
+INV-068,,clean,
+INV-069,,clean,
+INV-070,,clean,
+INV-071,,clean,
+INV-072,,clean,
+INV-073,,homonym,shares name with LEIE-D291256766
+INV-074,,clean,
+INV-075,,clean,
+INV-076,LEIE-093EC5F33D,true_positive,nickname
+INV-077,,clean,
+INV-078,LEIE-D9657D7667,true_positive,initial+title
+INV-079,LEIE-9FDAAE70A6,true_positive,nickname+compound
+INV-080,LEIE-9A43F58C6F,true_positive,initial
+INV-081,,clean,
+INV-082,,clean,
+INV-083,,clean,
+INV-084,,clean,
+INV-085,,clean,
+INV-086,,clean,
+INV-087,,homonym,shares name with LEIE-F27959E0B8
+INV-088,,clean,
+INV-089,,clean,
+INV-090,,clean,
+INV-091,,clean,
+INV-092,,clean,
+INV-093,,clean,
+INV-094,,clean,
+INV-095,,clean,
+INV-096,,clean,
+INV-097,,clean,
+INV-098,LEIE-0F2014171C,true_positive,typo+nickname
+INV-099,,clean,
+INV-100,,clean,
+INV-101,FDA-F8F50D26E2,true_positive,swap
+INV-102,,homonym,shares name with LEIE-38423F58E7
+INV-103,,clean,
+INV-104,,clean,
+INV-105,,homonym,shares name with LEIE-9DE97D85E2
+INV-106,,clean,
+INV-107,,clean,
+INV-108,,clean,
+INV-109,LEIE-3379088D43,true_positive,compound
+INV-110,,clean,
+INV-111,,homonym,shares name with LEIE-86C929790F
+INV-112,,clean,
+INV-113,,clean,
+INV-114,,clean,
+INV-115,,clean,
+INV-116,,clean,
+INV-117,,clean,
+INV-118,,clean,
+INV-119,,homonym,shares name with LEIE-9E37F8DDCB
+INV-120,,clean,
+INV-121,,clean,
+INV-122,,clean,
+INV-123,,clean,
+INV-124,,clean,
+INV-125,,clean,
+INV-126,LEIE-CB5F4BCA4A,true_positive,typo
+INV-127,,clean,
+INV-128,,clean,
+INV-129,,clean,
+INV-130,LEIE-A3F2B1FF73,true_positive,title+compound
+INV-131,,clean,
+INV-132,,clean,
+INV-133,,clean,
+INV-134,,clean,
+INV-135,,homonym,shares name with LEIE-31F3ED9289
+INV-136,,clean,
+INV-137,,homonym,shares name with LEIE-7EBCC1666F
+INV-138,,clean,
+INV-139,,clean,
+INV-140,,clean,
+INV-141,,clean,
+INV-142,,clean,
+INV-143,LEIE-DCB3814F16,true_positive,swap+initial
+INV-144,,clean,
+INV-145,,clean,
+INV-146,,clean,
+INV-147,,clean,
+INV-148,,clean,
+INV-149,,clean,
+INV-150,,clean,
+INV-151,,clean,
+INV-152,,homonym,shares name with LEIE-8EB002A310
+INV-153,,clean,
+INV-154,,clean,
+INV-155,,homonym,shares name with LEIE-000B4615C8
+INV-156,,clean,
+INV-157,,clean,
+INV-158,LEIE-15F5E88E97,true_positive,compound
+INV-159,,clean,
+INV-160,,clean,
+INV-161,,clean,
+INV-162,,clean,
+INV-163,,clean,
+INV-164,,clean,
+INV-165,,clean,
+INV-166,,clean,
+INV-167,,clean,
+INV-168,,clean,
+INV-169,,clean,
+INV-170,FDA-A7011D0160,true_positive,swap
+INV-171,,clean,
+INV-172,,clean,
+INV-173,,homonym,shares name with LEIE-6E84B263E3
+INV-174,,clean,
+INV-175,,clean,
+INV-176,,clean,
+INV-177,,clean,
+INV-178,,clean,
+INV-179,LEIE-379F09DE20,true_positive,nickname
+INV-180,LEIE-BD10D47706,true_positive,nickname
+INV-181,LEIE-EB811E8D02,true_positive,compound
+INV-182,,clean,
+INV-183,FDA-B5E8F9A5B3,true_positive,compound
+INV-184,,clean,
+INV-185,,clean,
+INV-186,,clean,
+INV-187,LEIE-292BF1951C,true_positive,swap
+INV-188,,clean,
+INV-189,,clean,
+INV-190,,homonym,shares name with LEIE-84A4C1B69D
+INV-191,,homonym,shares name with FDA-6A52A1200C
+INV-192,,homonym,shares name with LEIE-2EC8F968FF
+INV-193,,clean,
+INV-194,,clean,
+INV-195,,clean,
+INV-196,,clean,
+INV-197,,homonym,shares name with LEIE-F090CE4568
+INV-198,,clean,
+INV-199,,clean,
+INV-200,,clean,
+INV-201,,clean,
+INV-202,,clean,
+INV-203,,clean,
+INV-204,,clean,
+INV-205,,clean,
+INV-206,,clean,
+INV-207,,clean,
+INV-208,,clean,
+INV-209,,clean,
+INV-210,,clean,
+INV-211,,homonym,shares name with FDA-6DDAE183D5
+INV-212,,clean,
+INV-213,,clean,
+INV-214,,clean,
+INV-215,,clean,
+INV-216,,homonym,shares name with LEIE-2F917BDEA3
+INV-217,,clean,
+INV-218,LEIE-7F979D6159,true_positive,none+swap
+INV-219,,homonym,shares name with LEIE-C144E2247B
+INV-220,LEIE-B23F354D0E,true_positive,none
+INV-221,,clean,
+INV-222,,clean,
+INV-223,,clean,
+INV-224,,clean,
+INV-225,,clean,
+INV-226,,clean,
+INV-227,,clean,
+INV-228,,clean,
+INV-229,LEIE-47930641CE,true_positive,nickname
+INV-230,,homonym,shares name with LEIE-C4062C1471
+INV-231,,clean,
+INV-232,,homonym,shares name with LEIE-FDB3EA5071
+INV-233,,clean,
+INV-234,,clean,
+INV-235,,clean,
+INV-236,,clean,
+INV-237,,clean,
+INV-238,,clean,
+INV-239,,homonym,shares name with LEIE-41E676085D
+INV-240,LEIE-DDEF7D93C5,true_positive,typo+title
+INV-241,,homonym,shares name with LEIE-4F739245D5
+INV-242,,clean,
+INV-243,,clean,
+INV-244,,clean,
+INV-245,,clean,
+INV-246,,homonym,shares name with FDA-3DF33DEDAA
+INV-247,,clean,
+INV-248,,clean,
+INV-249,,clean,
+INV-250,,clean,
+INV-251,,clean,
+INV-252,,clean,
+INV-253,,clean,
+INV-254,,clean,
+INV-255,,clean,
+INV-256,,clean,
+INV-257,,clean,
+INV-258,,clean,
+INV-259,LEIE-0370C7D4E1,true_positive,nickname+swap
+INV-260,,clean,
+INV-261,,clean,
+INV-262,,clean,
+INV-263,,clean,
+INV-264,,clean,
+INV-265,,clean,
+INV-266,,clean,
+INV-267,,clean,
+INV-268,,clean,
+INV-269,,clean,
+INV-270,,clean,
+INV-271,,clean,
+INV-272,,homonym,shares name with FDA-D871788F7F
+INV-273,,homonym,shares name with LEIE-4509C7278A
+INV-274,,clean,
+INV-275,LEIE-0CE527B445,true_positive,nickname
+INV-276,,clean,
+INV-277,,clean,
+INV-278,,clean,
+INV-279,,clean,
+INV-280,,clean,
+INV-281,,clean,
+INV-282,FDA-1D7B3C7E09,true_positive,title
+INV-283,,homonym,shares name with FDA-3CAD81EFF8
+INV-284,,clean,
+INV-285,,clean,
+INV-286,,clean,
+INV-287,,clean,
+INV-288,,clean,
+INV-289,,clean,
+INV-290,,clean,
+INV-291,,clean,
+INV-292,,homonym,shares name with LEIE-B3D526FFA2
+INV-293,LEIE-595CE91984,true_positive,nickname+none
+INV-294,LEIE-A9237785B0,true_positive,swap
+INV-295,,clean,
+INV-296,,clean,
+INV-297,,homonym,shares name with FDA-03E8FAA83E
+INV-298,,clean,
+INV-299,,clean,
+INV-300,,homonym,shares name with LEIE-284BA878AD
